@@ -1,1 +1,2 @@
 Egg spam!
+And beacon.
